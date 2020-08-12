@@ -1,6 +1,7 @@
-LCD display of temperature, humidity and smoke sensors<br />
+<img scr="http://dkardu.oss-cn-hongkong.aliyuncs.com/SmokeDetector/YOUTUBE%E5%B0%81%E9%9D%A2%E5%B8%A6logo.jpg">
 <br />
 More details you can watch the video https://youtu.be/gfOUlCpb65Y<br />
+LCD display of temperature, humidity and smoke sensors<br />
 <br />
 The MQ-2 Gas sensor is suitable for detecting H2, LPG, CH4, CO, Alcohol, Smoke or Propane.&nbsp;<br />
 The MQ-3 Gas sensor is suitable for detecting Alcohol, Benzine, CH4, Hexane, LPG, CO.&nbsp;<br />
