@@ -1,4 +1,4 @@
-<img scr="http://dkardu.oss-cn-hongkong.aliyuncs.com/SmokeDetector/YOUTUBE%E5%B0%81%E9%9D%A2%E5%B8%A6logo.jpg">
+<img scr="http://dkardu.oss-cn-hongkong.aliyuncs.com/SmokeDetector/YOUTUBEwithLogo.jpg">
 <br />
 More details you can watch the video https://youtu.be/gfOUlCpb65Y<br />
 LCD display of temperature, humidity and smoke sensors<br />
